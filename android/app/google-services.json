@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "72021189710",
+    "project_id": "omanbloodband",
+    "storage_bucket": "omanbloodband.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72021189710:android:ca9d83c8c5658c75620f1f",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72021189710-6giffmljctb5etf3su3669ui8g3ve6rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9NVbKCKnO99ZV5Ly6YjOhURJ9o26SgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72021189710-6giffmljctb5etf3su3669ui8g3ve6rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72021189710:android:87f743e1fc59e25d620f1f",
+        "android_client_info": {
+          "package_name": "com.pitastudio.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72021189710-6giffmljctb5etf3su3669ui8g3ve6rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9NVbKCKnO99ZV5Ly6YjOhURJ9o26SgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72021189710-6giffmljctb5etf3su3669ui8g3ve6rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
